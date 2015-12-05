@@ -1,0 +1,135 @@
+{
+    "nationality": "LEGO",
+    "results": [
+        {
+            "user": {
+                "cell": "(215)-725-8949",
+                "dob": 937270895,
+                "email": "terrance.obrien@example.com",
+                "gender": "male",
+                "location": {
+                    "city": "knoxville",
+                    "state": "new hampshire",
+                    "street": "4507 depaul dr",
+                    "zip": 12580
+                },
+                "md5": "af120a04a92da443c599255d1bf6f65d",
+                "name": {
+                    "first": "terrance",
+                    "last": "obrien",
+                    "title": "mr"
+                },
+                "password": "pooky",
+                "phone": "(527)-413-7058",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/lego/1.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/lego/1.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/lego/1.jpg"
+                },
+                "registered": 1196757468,
+                "salt": "cABbNpSM",
+                "sha1": "46a207e70f85315e70e223ba984b71d445433415",
+                "sha256": "cdfb2c5ea35d8973ef996cbcca279fcf13ab57f5445e333243c1ee8f3b6a9e38",
+                "username": "ticklishcat947"
+            }
+        },
+        {
+            "user": {
+                "cell": "(574)-051-0682",
+                "dob": 305786967,
+                "email": "lawrence.murphy@example.com",
+                "gender": "male",
+                "location": {
+                    "city": "helena",
+                    "state": "maryland",
+                    "street": "3829 w belt line rd",
+                    "zip": 29429
+                },
+                "md5": "781500e261f56f37ad37967f0953307d",
+                "name": {
+                    "first": "lawrence",
+                    "last": "murphy",
+                    "title": "mr"
+                },
+                "password": "subaru",
+                "phone": "(093)-785-0945",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/lego/7.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/lego/7.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/lego/7.jpg"
+                },
+                "registered": 1197711939,
+                "salt": "LjILWS5c",
+                "sha1": "9b4def95db98ba1bb454f2d8da01828ed5dce2c0",
+                "sha256": "45497b9d34426356755909dc214ad9d1eefe28510f47e8ce50a9139064d23127",
+                "username": "brownwolf880"
+            }
+        },
+        {
+            "user": {
+                "cell": "(926)-119-3238",
+                "dob": 1122458909,
+                "email": "darren.hale@example.com",
+                "gender": "male",
+                "location": {
+                    "city": "san antonio",
+                    "state": "tennessee",
+                    "street": "5676 photinia ave",
+                    "zip": 50709
+                },
+                "md5": "dab25103819ec2ed69ded7bfbde8478f",
+                "name": {
+                    "first": "darren",
+                    "last": "hale",
+                    "title": "mr"
+                },
+                "password": "kenny",
+                "phone": "(169)-213-1078",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/lego/0.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/lego/0.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/lego/0.jpg"
+                },
+                "registered": 1352791939,
+                "salt": "WnFoMc5i",
+                "sha1": "5dbd819a304c1cd9dadc0a642225b313d8f036d4",
+                "sha256": "f7b7be14843428c9044095966a48726025844c87eaea250aa571f5b723be9e15",
+                "username": "brownpanda384"
+            }
+        },
+        {
+            "user": {
+                "cell": "(172)-594-6214",
+                "dob": 685655969,
+                "email": "curtis.alexander@example.com",
+                "gender": "male",
+                "location": {
+                    "city": "pompano beach",
+                    "state": "rhode island",
+                    "street": "3027 washington ave",
+                    "zip": 94863
+                },
+                "md5": "973662575812857aa4926a71d8797778",
+                "name": {
+                    "first": "curtis",
+                    "last": "alexander",
+                    "title": "mr"
+                },
+                "password": "niceguy",
+                "phone": "(924)-869-3940",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/lego/6.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/lego/6.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/lego/6.jpg"
+                },
+                "registered": 1029538786,
+                "salt": "L0zeFlQ0",
+                "sha1": "3978e3a03c07540a44b10ecae842e61a9f83ce5d",
+                "sha256": "45a11f4c59b467997061560ca942e97ee246526211e9a4da9c01f6423bfeb190",
+                "username": "crazymeercat699"
+            }
+        }
+    ],
+    "seed": "4006885769f4bbd0",
+    "version": "0.7"
+}

@@ -1,0 +1,38 @@
+<style>
+.profile-card {
+  width: 290px;
+  padding: 1rem;
+  border: 1px solid #d4d4d5;
+  border-radius: 6px;
+  margin-right: .5rem;
+  margin-bottom: .5rem;
+  font-family: 'Lato', sans-serif;
+}
+
+.image {
+  margin-bottom: .5rem;
+}
+
+.title {
+  text-transform: capitalize;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.contact {
+  color: rgba(0,0,0,.4);
+  font-size: .9rem;
+  margin-bottom: .4rem;
+}
+
+.contact:last-child {
+  margin-bottom: 0;
+}
+</style>
+
+<div class="profile-card">
+  <div class="image"><img src="{{person.picture.medium}}" width="80"></div>
+  <div class="title">{{person.name.first}} {{person.name.last}}</div>
+  <div class="contact">{{person.email}}</div>
+  <div class="contact">{{person.phone}}</div>
+</div>
