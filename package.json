@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Demo of Styling Angular2 Components",
   "scripts": {
-    "start": "live-server --open=app",
+    "start": "cd app && live-server",
     "deploy": "gh-pages -d app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

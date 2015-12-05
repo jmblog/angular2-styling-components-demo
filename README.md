@@ -2,13 +2,17 @@
 
 ![](components.png)
 
+## Live demo
+
+http://jmblog.github.io/angular2-styling-components-demo/
+
 ## Installation
 
 ```
 $ npm install
 ```
 
-## Running the demo
+## Running the demo on your machine
 
 ```
 $ npm start

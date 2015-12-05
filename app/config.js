@@ -6,14 +6,12 @@ System.config({
     emitDecoratorMetadata: true,
     sourceMap: true
   },
-  //map tells the System loader where to look for things
-  map: {
-    app: '/app'
-  },
   //packages defines our app package
   packages: {
-    app: {
-      main: './bootstrap.ts',
+    components: {
+      defaultExtension: 'ts'
+    },
+    services: {
       defaultExtension: 'ts'
     }
   }
