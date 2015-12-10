@@ -6,6 +6,10 @@ System.config({
     emitDecoratorMetadata: true,
     sourceMap: true
   },
+  paths: {
+    'rxjs/operator/*': 'assets/rxjs/add/operator/*.js',
+    'rxjs/*' : 'assets/rxjs/*.js'
+  },
   //packages defines our app package
   packages: {
     components: {
@@ -13,6 +17,9 @@ System.config({
     },
     services: {
       defaultExtension: 'ts'
+    },
+    'assets/rxjs': {
+      defaultExtension: 'js'
     }
   }
 });
